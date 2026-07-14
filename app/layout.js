@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "The Unspoken Conversations — Teens Edition | Register",
   description:
